@@ -1,2 +1,3 @@
 My first text in repo 1
 ...now I am chanign to see if my branch protection rule applies
+Another change
