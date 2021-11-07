@@ -3,3 +3,5 @@ My first text in repo 1
 
 I am on new branch
 
+admin also rules affected
+
